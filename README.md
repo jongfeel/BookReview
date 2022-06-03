@@ -6,6 +6,6 @@ Reviews the IT or any books slowly and steady.
 
 |Title|Duration|History|Review|
 |-----|--------|-------|------|
-|[Clean Coder: A code of conduct for professional programmers](http://aladin.kr/p/yFVQ1)|26 Feb to 20 May|[IssuesLink](https://github.com/jongfeel/BookReview/issues?q=is%3Aissue+is%3Aclosed+label%3A%22The+Clean+Coder%22)|[Notion](https://www.notion.so/jongfeel/00db3671c6fa417481bece0ba0d4e170)
+|[Clean Coder: A Code Of Conduct for Professional Programmers](http://aladin.kr/p/MJJw1)|26 Feb to 20 May|[IssuesLink](https://github.com/jongfeel/BookReview/issues?q=is%3Aissue+is%3Aclosed+label%3A%22The+Clean+Coder%22)|[Notion](https://www.notion.so/jongfeel/00db3671c6fa417481bece0ba0d4e170)
 |[Drive: The Surprising Truth about What Motivates Us](http://aladin.kr/p/yFVQ1)|21 Mar to 30 Mar|[IssuesLink](https://github.com/jongfeel/BookReview/issues?q=is%3Aissue+is%3Aclosed+label%3ADrive)|[Notion](https://www.notion.so/jongfeel/772a5f667d4841feb69c2a2864d8ebf9)
 |[TeamGeek](http://aladin.kr/p/vDMV)|28 Feb to 20 Mar|[IssuesLink](https://github.com/jongfeel/BookReview/issues?q=is%3Aissue+is%3Aclosed+label%3A%22Team+Geek%22)|[Notion](https://www.notion.so/jongfeel/f39e621ef6fe4c418f060c16028a676c)

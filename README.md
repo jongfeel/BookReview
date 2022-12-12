@@ -6,6 +6,7 @@ Reviews the IT or any books slowly and steady.
 
 |Title|Duration|History|Review|
 |-----|--------|-------|------|
+|<img src="https://image.aladin.co.kr/product/29689/33/cover500/k962838585_1.jpg" style="width:50%; display:block; margin: 0px auto;" >|11-16 to 12-12|[IssuesLink](https://github.com/jongfeel/BookReview/issues?q=is%3Aissue+is%3Aclosed+milestone%3A%22The+Effective+Engineer%22)| |
 |<img src="https://image.aladin.co.kr/product/28629/55/cover500/8950997673_1.jpg" style="width:50%; display:block; margin: 0px auto;" >|03-15 to 11-14|[IssuesLink](https://github.com/jongfeel/BookReview/issues?q=is%3Aissue+is%3Aclosed+milestone%3A%22The+Craftsman%22)| |
 |<img src="https://image.aladin.co.kr/product/20945/79/cover500/s952638241_2.jpg" style="width:50%; display:block; margin: 0px auto;" >|10-11 to 11-11|[IssuesLink](https://github.com/jongfeel/BookReview/issues?q=is%3Aissue+is%3Aclosed+milestone%3A%22How+to+Win+Friends+%26+Influence+People%22)| |
 |<img src="https://image.aladin.co.kr/product/17597/74/cover500/8966262333_1.jpg" style="width:50%; display:block; margin: 0px auto;" >|10-04 to 11-01|[IssuesLink](https://github.com/jongfeel/BookReview/issues?q=is%3Aissue+is%3Aclosed+milestone%3A%22%ED%95%A8%EA%BB%98+%EC%9E%90%EB%9D%BC%EA%B8%B0%22)| |

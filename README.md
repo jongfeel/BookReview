@@ -6,6 +6,7 @@ Reviews the IT or any books slowly and steady.
 
 |Title|Duration|History|
 |-----|--------|-------|
+|<img src="https://image.aladin.co.kr/product/30182/53/cover500/k992839897_1.jpg" style="width:50%; display:block; margin: 0px auto;" >|2023-01-13 to 2023-01-26|[IssuesLink](https://github.com/jongfeel/BookReview/issues?q=is%3Aissue+is%3Aclosed+milestone%3A%22IT+5%EB%B6%84+%EC%9E%A1%ED%95%99%EC%82%AC%EC%A0%84%22)|
 |<img src="https://image.aladin.co.kr/product/30618/27/cover500/k542830726_1.jpg" style="width:50%; display:block; margin: 0px auto;" >|2022-12-26 to 2023-01-19|[IssuesLink](https://github.com/jongfeel/BookReview/issues?q=is%3Aissue+is%3Aclosed+milestone%3A%22%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%9B%90%EC%B9%99+-+%ED%85%8C%ED%81%AC+%EB%A6%AC%EB%8D%94+9%EC%9D%B8%EC%9D%B4+%EB%A7%90%ED%95%98%EB%8A%94+%EB%8D%94+%EB%82%98%EC%9D%80+%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C+%EC%82%B4%EC%95%84%EA%B0%80%EB%8A%94+%EC%9B%90%EC%B9%99%EA%B3%BC+%EC%B2%A0%ED%95%99%22)|
 
 ## Book list of 2022

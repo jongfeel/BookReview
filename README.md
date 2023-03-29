@@ -6,6 +6,7 @@ Reviews the IT or any books slowly and steady.
 
 |Title|Duration|History|
 |-----|--------|-------|
+|<img src="https://image.aladin.co.kr/product/19389/8/cover500/8935212822_1.jpg" style="width:50%; display:block; margin: 0px auto;" >|2023-03-05 to 2023-03-23|[IssuesLink](https://github.com/jongfeel/BookReview/issues?q=milestone%3A%22%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EC%9D%98+%ED%8C%80%EC%9E%A5%EB%93%A4%28Radical+Candor%29%22)|
 |<img src="https://image.aladin.co.kr/product/29464/92/cover500/k422837236_1.jpg" style="width:50%; display:block; margin: 0px auto;" >|2023-01-06 to 2023-03-04|[IssuesLink](https://github.com/jongfeel/BookReview/issues?q=milestone%3A%22Good+Code+Bad+Code%22+)|
 |<img src="https://image.aladin.co.kr/product/3408/36/cover500/8966260950_2.jpg" style="width:50%; display:block; margin: 0px auto;" >|2022-11-14 to 2023-03-03|[IssuesLink](https://github.com/jongfeel/BookReview/issues?q=milestone%3A%22Clean+Code%3A+A+Handbook+Of+Agile+Software+Craftsmanship%2C+Virnect%22+)|
 |<img src="https://image.aladin.co.kr/product/30182/53/cover500/k992839897_1.jpg" style="width:50%; display:block; margin: 0px auto;" >|2023-01-13 to 2023-01-26|[IssuesLink](https://github.com/jongfeel/BookReview/issues?q=is%3Aissue+is%3Aclosed+milestone%3A%22IT+5%EB%B6%84+%EC%9E%A1%ED%95%99%EC%82%AC%EC%A0%84%22)|

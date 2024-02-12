@@ -2,6 +2,14 @@
 
 Reviews the IT or any books slowly and steady.
 
+
+
+## Book list of 2024
+
+|Title|Duration|History|Title|Duration|History|
+|-----|--------|-------|-----|--------|-------|
+| ![The staff engineers path](https://private-user-images.githubusercontent.com/17442457/246870071-1bd18072-f9b8-42bc-951a-921cb1f58c22.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDc3NDc2NzMsIm5iZiI6MTcwNzc0NzM3MywicGF0aCI6Ii8xNzQ0MjQ1Ny8yNDY4NzAwNzEtMWJkMTgwNzItZjliOC00MmJjLTk1MWEtOTIxY2IxZjU4YzIyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjEyVDE0MTYxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU3N2IxOGVlM2VjMDE0ZTgyZjJkYTM1ZGMzOTY2YmM2ODYxMGJjZTlkZTIwNjg3ZTEzM2Q2OTc4ZjMxZmY5ZmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.IxtTW-IpUoG817zdKVSri1mUauES1Z0IGKvSMjqPTyg) | 2023-06-20 to 2024-02-07 | [IssuesLink](https://github.com/jongfeel/BookReview/issues?q=is%3Aissue+is%3Aclosed+milestone%3A%22The+Staff+Engineer%E2%80%99s+Path%22) | | | |
+
 ## Book list of 2023
 
 |Title|Duration|History|Title|Duration|History|

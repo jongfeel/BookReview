@@ -6,6 +6,7 @@ Reviews the IT or any books slowly and steady.
 
 |Title|Duration|History|Title|Duration|History|
 |-----|--------|-------|-----|--------|-------|
+| ![The Universal Computer: The Road from Leibniz to Turing](https://image.aladin.co.kr/product/32248/67/cover500/896626414x_1.jpg) | 2024-02-07 to 2024-02-28 | [IssuesLink](https://github.com/jongfeel/BookReview/issues?q=is%3Aissue+is%3Aclosed+milestone%3A%22The+Universal+Computer+%3A+The+Road+from+Leibniz+to+Turing%2C+3rd+edition%22) | | | |
 | ![The staff engineers path](https://image.aladin.co.kr/product/31673/39/cover500/k032833674_1.jpg) | 2023-06-20 to 2024-02-07 | [IssuesLink](https://github.com/jongfeel/BookReview/issues?q=is%3Aissue+is%3Aclosed+milestone%3A%22The+Staff+Engineer%E2%80%99s+Path%22) | ![The Psychology of Computer Programming](https://image.aladin.co.kr/product/3422/82/cover500/8966260985_1.jpg) | 2024-01-02 to 2024-02-23 | [IssueLink](https://github.com/jongfeel/BookReview/issues?q=is%3Aissue+is%3Aclosed+milestone%3A%22The+Psychology+of+Computer+Progamming%22) |
 
 ## Book list of 2023

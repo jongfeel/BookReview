@@ -2,10 +2,11 @@
 
 Reviews the IT or any books slowly and steady.
 
-## Book list of 2024
+## Book list of 2024 (17 books)
 
 |Title|Duration|History|Title|Duration|History|
 |-----|--------|-------|-----|--------|-------|
+| | | | [![코딩의 미래 - 인공지능이 최고의 코드를 만들어내는 세상이 온다](https://image.aladin.co.kr/product/29611/60/cover500/8997924982_1.jpg)](http://aladin.kr/p/wPMKu) | 2024-07-04 to 2024-07-24 | [IssuesLink](https://github.com/jongfeel/BookReview/issues?q=milestone%3A%22%EC%BD%94%EB%94%A9%EC%9D%98+%EB%AF%B8%EB%9E%98+-+%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%B4+%EC%B5%9C%EA%B3%A0%EC%9D%98+%EC%BD%94%EB%93%9C%EB%A5%BC+%EB%A7%8C%EB%93%A4%EC%96%B4%EB%82%B4%EB%8A%94+%EC%84%B8%EC%83%81%EC%9D%B4+%EC%98%A8%EB%8B%A4%22+) | 
 | [![린 인 Lean In - 200만이 열광한 TED강연! 페이스북 성공 아이콘의 특별한 조언](https://image.aladin.co.kr/product/2670/54/cover500/8937834189_2.jpg)](http://aladin.kr/p/ItqR) | 2024-06-20 to 2024-07-10 | [IssuesLink](https://github.com/jongfeel/BookReview/issues?q=milestone%3A%22Lean+In+%3A+Women%2C+Work%2C+and+the+Will+to+Lead%22+) | [![최고의 프로덕트는 무엇이 다른가 - 더 나은 소프트웨어를 만드는 방법](https://image.aladin.co.kr/product/34038/82/cover500/k942931072_1.jpg)](http://aladin.kr/p/6RDLu) | 2024-06-14 to 2024-07-03 | [IssuesLink](https://github.com/jongfeel/BookReview/issues?q=milestone%3A%22%EC%B5%9C%EA%B3%A0%EC%9D%98+%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%EB%8A%94+%EB%AC%B4%EC%97%87%EC%9D%B4+%EB%8B%A4%EB%A5%B8%EA%B0%80+-+%EB%8D%94+%EB%82%98%EC%9D%80+%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EB%A5%BC+%EB%A7%8C%EB%93%9C%EB%8A%94+%EB%B0%A9%EB%B2%95%22+) | 
 | ![에너지 버스](https://image.aladin.co.kr/product/21682/30/cover500/8965709431_1.jpg) | 2024-06-03 to 2024-06-19 | [IssuesLink](https://github.com/jongfeel/BookReview/issues?q=milestone%3A%22The+Energy+Bus%22+) | ![켄트 벡의 Tidy First?](https://image.aladin.co.kr/product/33708/44/cover500/k472930471_1.jpg) | 2024-05-31 to 2024-06-14 | [IssuesLink](https://github.com/jongfeel/BookReview/issues?q=milestone%3A%22Tidy+First%3F%3A+A+Personal+Exercise+in+Empirical+Software+Design%22+) | 
 | ![객체지향의 사실과 오해](https://image.aladin.co.kr/product/6055/2/cover500/8998139766_1.jpg) | 2024-05-21 to 2024-06-13 | [IssuesLink](https://github.com/jongfeel/BookReview/issues?q=milestone%3A%22%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98+%EC%82%AC%EC%8B%A4%EA%B3%BC+%EC%98%A4%ED%95%B4%22+) | ![팀장의 탄생](https://image.aladin.co.kr/product/25092/75/cover500/k712632857_1.jpg) | 2024-04-09 to 2024-05-31 | [IssuesLink](https://github.com/jongfeel/BookReview/issues?q=milestone%3A%22The+Making+of+a+Manager%22) | 
@@ -15,7 +16,7 @@ Reviews the IT or any books slowly and steady.
 | ![Mindstorms: Children, Computers, and Powerful Ideas](https://image.aladin.co.kr/product/24088/81/cover500/8966262619_2.jpg) | 2024-02-28 to 2024-03-22 | [IssuesLink](https://github.com/jongfeel/BookReview/issues?q=milestone%3A%22Mindstorms%3A+children%2C+computers+and+powerful+ideas%22+) | ![The Universal Computer: The Road from Leibniz to Turing](https://image.aladin.co.kr/product/32248/67/cover500/896626414x_1.jpg) | 2024-02-07 to 2024-02-28 | [IssuesLink](https://github.com/jongfeel/BookReview/issues?q=is%3Aissue+is%3Aclosed+milestone%3A%22The+Universal+Computer+%3A+The+Road+from+Leibniz+to+Turing%2C+3rd+edition%22) | 
 | ![The Psychology of Computer Programming](https://image.aladin.co.kr/product/3422/82/cover500/8966260985_1.jpg) | 2024-01-02 to 2024-02-23 | [IssueLink](https://github.com/jongfeel/BookReview/issues?q=is%3Aissue+is%3Aclosed+milestone%3A%22The+Psychology+of+Computer+Progamming%22) | ![The staff engineers path](https://image.aladin.co.kr/product/31673/39/cover500/k032833674_1.jpg) | 2023-06-20 to 2024-02-07 | [IssuesLink](https://github.com/jongfeel/BookReview/issues?q=is%3Aissue+is%3Aclosed+milestone%3A%22The+Staff+Engineer%E2%80%99s+Path%22) |
 
-## Book list of 2023
+## Book list of 2023 (16 books)
 
 |Title|Duration|History|Title|Duration|History|
 |-----|--------|-------|-----|--------|-------|
@@ -28,7 +29,7 @@ Reviews the IT or any books slowly and steady.
 |<img src="https://image.aladin.co.kr/product/29464/92/cover500/k422837236_1.jpg" >|2023-01-06 to 2023-03-04|[IssuesLink](https://github.com/jongfeel/BookReview/issues?q=milestone%3A%22Good+Code+Bad+Code%22+) | <img src="https://image.aladin.co.kr/product/3408/36/cover500/8966260950_2.jpg" >|2022-11-14 to 2023-03-03|[IssuesLink](https://github.com/jongfeel/BookReview/issues?q=milestone%3A%22Clean+Code%3A+A+Handbook+Of+Agile+Software+Craftsmanship%2C+Virnect%22+) | 
 <img src="https://image.aladin.co.kr/product/30182/53/cover500/k992839897_1.jpg" >|2023-01-13 to 2023-01-26|[IssuesLink](https://github.com/jongfeel/BookReview/issues?q=is%3Aissue+is%3Aclosed+milestone%3A%22IT+5%EB%B6%84+%EC%9E%A1%ED%95%99%EC%82%AC%EC%A0%84%22) | <img src="https://image.aladin.co.kr/product/30618/27/cover500/k542830726_1.jpg" >|2022-12-26 to 2023-01-19|[IssuesLink](https://github.com/jongfeel/BookReview/issues?q=is%3Aissue+is%3Aclosed+milestone%3A%22%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%9B%90%EC%B9%99+-+%ED%85%8C%ED%81%AC+%EB%A6%AC%EB%8D%94+9%EC%9D%B8%EC%9D%B4+%EB%A7%90%ED%95%98%EB%8A%94+%EB%8D%94+%EB%82%98%EC%9D%80+%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C+%EC%82%B4%EC%95%84%EA%B0%80%EB%8A%94+%EC%9B%90%EC%B9%99%EA%B3%BC+%EC%B2%A0%ED%95%99%22)|
 
-## Book list of 2022
+## Book list of 2022 (13 books)
 
 |Title|Duration|History|Review|Title|Duration|History|Review|
 |-----|--------|-------|------|-----|--------|-------|------|

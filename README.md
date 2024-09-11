@@ -2,7 +2,7 @@
 
 Reviews the IT or any books slowly and steady.
 
-## Book list of 2024 (19 books)
+## Book list of 2024 (20 books)
 
 |Title|Duration|History|Title|Duration|History|
 |-----|--------|-------|-----|--------|-------|

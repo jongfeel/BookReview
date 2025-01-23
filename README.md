@@ -2,10 +2,11 @@
 
 Reviews the IT or any books slowly and steady.
 
-## Book list of 2024 (24 books)
+## Book list of 2024 (25 books)
 
 |Title|Duration|History|Title|Duration|History|
 |-----|--------|-------|-----|--------|-------|
+| | | | [![전진의 법칙](https://image.aladin.co.kr/product/2865/90/cover500/8996724831_1.jpg)](http://aladin.kr/p/E7BZ) | 2024-10-28 to 2024-12-09 | [IssuesLink](https://github.com/jongfeel/BookReview/issues?q=milestone%3A%22The%20Progress%20Principle%22%20%20) | 
 | [![실무로 통하는 클린코드 - 코드 품질과 디자인을 개선하는 208가지 실전 레시피](https://image.aladin.co.kr/product/34404/43/cover500/k452932615_1.jpg)](http://aladin.kr/p/vqmsB) | 2024-10-24 to 2024-11-15 | [IssuesLink](https://github.com/jongfeel/BookReview/issues?q=milestone%3A%22Clean%20Code%20Cookbook%22%20%20) | [![백세 코딩 - 행복한 흰머리 개발자로 살아가고픈 대한민국 모든 개발자를 위해](https://image.aladin.co.kr/product/4398/52/cover500/8965400740_1.jpg)](http://aladin.kr/p/0bfti) | 2024-09-12 to 2024-10-25 | [IssuesLink](https://github.com/jongfeel/BookReview/issues?q=milestone%3A%22%EB%B0%B1%EC%84%B8+%EC%BD%94%EB%94%A9%22+) | 
 | [![はじめての設計をやり拔くための本](https://image.aladin.co.kr/product/34584/66/cover500/k392933377_1.jpg)](http://aladin.kr/p/tqjS8) | 2024-09-26 to 2024-10-23 | [IssuesLink](https://github.com/jongfeel/BookReview/issues?q=milestone%3A%22%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AE%E8%A8%AD%E8%A8%88%E3%82%92%E3%82%84%E3%82%8A%E6%8B%94%E3%81%8F%E3%81%9F%E3%82%81%E3%81%AE%E6%9C%AC+%E7%AC%AC2%E7%89%88%22+) | [![코드 밖 커뮤니케이션 - 팀원 온보딩 부터 UML 활용법, 글쓰기 스킬, 원격 근무 노하우 까지](https://image.aladin.co.kr/product/34545/11/cover500/k222933965_1.jpg)](http://aladin.kr/p/iqgmw) | 2024-08-29 to 2024-09-26 | [IssuesLink](https://github.com/jongfeel/BookReview/issues?q=milestone%3A%22Communication+Patterns%3A+A+Guide+for+Developers+and+Architects%22+) | 
 | [![읽기 좋은 코드가 좋은 코드다 - 더 나은 코드를 작성하는 간단하고 실전적인 테크닉](https://image.aladin.co.kr/product/1610/82/cover500/897914914x_1.jpg)](http://aladin.kr/p/KFsHD) | 2024-07-10 to 2024-09-10 | [IssuesLink](https://github.com/jongfeel/BookReview/issues?q=milestone%3A%22The+Art+of+Readable+Code%22+) | [![마인드셋 (리커버 에디션) - 스탠퍼드 인간 성장 프로젝트](https://image.aladin.co.kr/product/30664/44/cover500/k542830039_1.jpg)](http://aladin.kr/p/QQaHo) | 2024-07-24 to 2024-08-29 | [IssuesLink](https://github.com/jongfeel/BookReview/issues?q=milestone%3A%22Mindset%3A+The+New+Psychology+of+Success%22+) | 

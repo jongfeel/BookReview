@@ -2,11 +2,11 @@
 
 Reviews the IT or any books slowly and steady.
 
-## Book list of 2025 (1 books)
+## Book list of 2025 (2 books)
 
 |Title|Duration|History|Title|Duration|History|
 |-----|--------|-------|-----|--------|-------|
-| | | | [![소프트웨어 엔지니어 가이드북](https://image.aladin.co.kr/product/35010/64/cover500/k802934887_1.jpg)](http://aladin.kr/p/GqhxH) | 2024-11-15 to 2025-01-21 | [IssuesLink](https://github.com/jongfeel/BookReview/milestone/59?closed=1) | 
+| [![소프트웨어 아키텍트가 알아야 할 97가지](https://image.aladin.co.kr/product/1130/41/cover500/8993827338_1.jpg)](http://aladin.kr/p/m6WvR) | 2024-11-15 to 2025-01-21 | [IssuesLink](https://github.com/jongfeel/BookReview/milestone/60?closed=1) | [![소프트웨어 엔지니어 가이드북](https://image.aladin.co.kr/product/35010/64/cover500/k802934887_1.jpg)](http://aladin.kr/p/GqhxH) | 2024-11-15 to 2025-01-21 | [IssuesLink](https://github.com/jongfeel/BookReview/milestone/59?closed=1) | 
 
 ## Book list of 2024 (26 books)
 

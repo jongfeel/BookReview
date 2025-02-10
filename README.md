@@ -2,12 +2,12 @@
 
 Reviews the IT or any books slowly and steady.
 
-## Book list of 2025 (3 books)
+## Book list of 2025 (4 books)
 
 |Title|Duration|History|Title|Duration|History|
 |-----|--------|-------|-----|--------|-------|
-| | || [![프로그래머가 알아야 할 97가지](https://image.aladin.co.kr/product/1719/83/cover500/8993827435_2.jpg)](http://aladin.kr/p/KzuV) | 2023-06-19 to 2025-02-05 | [IssuesLink](https://github.com/jongfeel/BookReview/milestone/30?closed=1) | 
-| [![소프트웨어 아키텍트가 알아야 할 97가지](https://image.aladin.co.kr/product/1130/41/cover500/8993827338_1.jpg)](http://aladin.kr/p/m6WvR) | 2024-11-15 to 2025-01-21 | [IssuesLink](https://github.com/jongfeel/BookReview/milestone/60?closed=1) | [![소프트웨어 엔지니어 가이드북](https://image.aladin.co.kr/product/35010/64/cover500/k802934887_1.jpg)](http://aladin.kr/p/GqhxH) | 2024-11-15 to 2025-01-21 | [IssuesLink](https://github.com/jongfeel/BookReview/milestone/59?closed=1) | 
+| [![Domain-Driven Design](https://image.aladin.co.kr/product/1217/42/cover500/899293985x_1.jpg)](http://aladin.kr/p/KzuV) | 2023-10-21 to 2025-02-08 | [IssuesLink](https://github.com/jongfeel/BookReview/milestone/35?closed=1) | [![프로그래머가 알아야 할 97가지](https://image.aladin.co.kr/product/1719/83/cover500/8993827435_2.jpg)](http://aladin.kr/p/KzuV) | 2023-06-19 to 2025-02-05 | [IssuesLink](https://github.com/jongfeel/BookReview/milestone/30?closed=1) | 
+| [![소프트웨어 아키텍트가 알아야 할 97가지](https://image.aladin.co.kr/product/1130/41/cover500/8993827338_1.jpg)](http://aladin.kr/p/m6WvR) | 2024-12-09 to 2025-01-24 | [IssuesLink](https://github.com/jongfeel/BookReview/milestone/60?closed=1) | [![소프트웨어 엔지니어 가이드북](https://image.aladin.co.kr/product/35010/64/cover500/k802934887_1.jpg)](http://aladin.kr/p/GqhxH) | 2024-11-15 to 2025-01-21 | [IssuesLink](https://github.com/jongfeel/BookReview/milestone/59?closed=1) | 
 
 ## Book list of 2024 (26 books)
 

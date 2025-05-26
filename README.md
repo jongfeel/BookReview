@@ -2,7 +2,7 @@
 
 Reviews the IT or any books slowly and steady.
 
-## Book list of 2025 (8 books)
+## Book list of 2025 (9 books)
 
 |Title|Duration|History|Title|Duration|History|
 |-----|--------|-------|-----|--------|-------|

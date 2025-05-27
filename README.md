@@ -2,11 +2,11 @@
 
 Reviews the IT or any books slowly and steady.
 
-## Book list of 2025 (9 books)
+## Book list of 2025 (10 books)
 
 |Title|Duration|History|Title|Duration|History|
 |-----|--------|-------|-----|--------|-------|
-| | | | [![당신은 결국 무엇이든 해내는 사람](https://image.aladin.co.kr/product/29411/61/cover500/e832530665_1.jpg)](http://aladin.kr/p/qPnWG) | 2025-03-19 to 2025-03-24 | [IssuesLink](https://github.com/jongfeel/BookReview/milestone/69?closed=1) | 
+| [![당신은 결국 무엇이든 해내는 사람](https://image.aladin.co.kr/product/1262/3/cover500/8966260128_1.jpg)](http://aladin.kr/p/qPnWG) | 2025-03-10 to 2025-04-01 | [IssuesLink](https://github.com/jongfeel/BookReview/milestone/67?closed=1) | [![당신은 결국 무엇이든 해내는 사람](https://image.aladin.co.kr/product/29411/61/cover500/e832530665_1.jpg)](http://aladin.kr/p/qPnWG) | 2025-03-19 to 2025-03-24 | [IssuesLink](https://github.com/jongfeel/BookReview/milestone/69?closed=1) | 
 | [![소스 코드:더 비기닝](https://image.aladin.co.kr/product/35718/16/cover500/893292497x_2.jpg)](http://aladin.kr/p/c4Zpt) | 2025-03-04 to 2025-03-14 | [IssuesLink](https://github.com/jongfeel/BookReview/milestone/66?closed=1) | [![타입으로 견고하게 다형성으로 유연하게 - 탄탄한 개발을 위한 씨줄과 날줄](https://image.aladin.co.kr/product/32634/2/cover500/8966264174_1.jpg)](http://aladin.kr/p/c4Zpt) | 2024-12-28 to 2025-03-07 | [IssuesLink](https://github.com/jongfeel/BookReview/milestone/61?closed=1) | 
 | [![와인버그에게 배우는 차곡차곡 글쓰기](https://image.aladin.co.kr/product/35498/53/cover500/8966264662_1.jpg)](http://aladin.kr/p/zRy9H) | 2025-02-17 to 2025-02-28 | [IssuesLink](https://github.com/jongfeel/BookReview/milestone/65?closed=1) | [![카오스, 카오스 에브리웨어](https://image.aladin.co.kr/product/35039/63/cover500/k942934980_1.jpg)](http://aladin.kr/p/vqasR) | 2025-01-22 to 2025-02-14 | [IssuesLink](https://github.com/jongfeel/BookReview/milestone/62?closed=1) | 
 | [![Domain-Driven Design](https://image.aladin.co.kr/product/1217/42/cover500/899293985x_1.jpg)](http://aladin.kr/p/KzuV) | 2023-10-21 to 2025-02-08 | [IssuesLink](https://github.com/jongfeel/BookReview/milestone/35?closed=1) | [![프로그래머가 알아야 할 97가지](https://image.aladin.co.kr/product/1719/83/cover500/8993827435_2.jpg)](http://aladin.kr/p/KzuV) | 2023-06-19 to 2025-02-05 | [IssuesLink](https://github.com/jongfeel/BookReview/milestone/30?closed=1) | 

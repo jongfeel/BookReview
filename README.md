@@ -2,11 +2,11 @@
 
 Reviews the IT or any books slowly and steady.
 
-## Book list of 2025 (11 books)
+## Book list of 2025 (12 books)
 
 |Title|Duration|History|Title|Duration|History|
 |-----|--------|-------|-----|--------|-------|
-| | | | [![자기 신뢰](https://image.aladin.co.kr/product/26820/59/cover500/k392730292_1.jpg)](http://aladin.kr/p/PyaGz) | 2025-03-26 to 2025-04-03 | [IssuesLink](https://github.com/jongfeel/BookReview/milestone/70?closed=1) |
+| [![Quantum Computing for Dummies](https://image.aladin.co.kr/product/35567/94/cover500/k542036478_1.jpg)](http://aladin.kr/p/PyaGz) | 2025-03-14 to 2025-04-18 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1164) | [![자기 신뢰](https://image.aladin.co.kr/product/26820/59/cover500/k392730292_1.jpg)](http://aladin.kr/p/PyaGz) | 2025-03-26 to 2025-04-03 | [IssuesLink](https://github.com/jongfeel/BookReview/milestone/70?closed=1) |
 | [![Domain Driven Design Quickly](https://image.aladin.co.kr/product/1262/3/cover500/8966260128_1.jpg)](http://aladin.kr/p/qPnWG) | 2025-03-10 to 2025-04-01 | [IssuesLink](https://github.com/jongfeel/BookReview/milestone/67?closed=1) | [![당신은 결국 무엇이든 해내는 사람](https://image.aladin.co.kr/product/29411/61/cover500/e832530665_1.jpg)](http://aladin.kr/p/qPnWG) | 2025-03-19 to 2025-03-24 | [IssuesLink](https://github.com/jongfeel/BookReview/milestone/69?closed=1) | 
 | [![소스 코드:더 비기닝](https://image.aladin.co.kr/product/35718/16/cover500/893292497x_2.jpg)](http://aladin.kr/p/c4Zpt) | 2025-03-04 to 2025-03-14 | [IssuesLink](https://github.com/jongfeel/BookReview/milestone/66?closed=1) | [![타입으로 견고하게 다형성으로 유연하게 - 탄탄한 개발을 위한 씨줄과 날줄](https://image.aladin.co.kr/product/32634/2/cover500/8966264174_1.jpg)](http://aladin.kr/p/c4Zpt) | 2024-12-28 to 2025-03-07 | [IssuesLink](https://github.com/jongfeel/BookReview/milestone/61?closed=1) | 
 | [![와인버그에게 배우는 차곡차곡 글쓰기](https://image.aladin.co.kr/product/35498/53/cover500/8966264662_1.jpg)](http://aladin.kr/p/zRy9H) | 2025-02-17 to 2025-02-28 | [IssuesLink](https://github.com/jongfeel/BookReview/milestone/65?closed=1) | [![카오스, 카오스 에브리웨어](https://image.aladin.co.kr/product/35039/63/cover500/k942934980_1.jpg)](http://aladin.kr/p/vqasR) | 2025-01-22 to 2025-02-14 | [IssuesLink](https://github.com/jongfeel/BookReview/milestone/62?closed=1) | 

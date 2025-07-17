@@ -2,11 +2,11 @@
 
 Reviews the IT or any books slowly and steady.
 
-## Book list of 2025 (17 books)
+## Book list of 2025 (18 books)
 
 |Title|Duration|History|Title|Duration|History|
 |-----|--------|-------|-----|--------|-------|
-| | | | [![Happy: Why More or Less Everything is Absolutely Fine](https://image.aladin.co.kr/product/30480/99/cover500/k622830488_1.jpg)](http://aladin.kr/p/zzoMI) | 2025-05-21 to 2025-07-14 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1297) |
+| [![Feynman Lectures on Computation](https://image.aladin.co.kr/product/36627/14/cover500/k382030577_1.jpg)](http://aladin.kr/p/zRN92) | 2025-06-30 to 2025-07-14 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1387) | [![Happy: Why More or Less Everything is Absolutely Fine](https://image.aladin.co.kr/product/30480/99/cover500/k622830488_1.jpg)](http://aladin.kr/p/zzoMI) | 2025-05-21 to 2025-07-14 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1297) |
 | [![Effective Software Architecture](https://image.aladin.co.kr/product/36121/82/cover500/k002038262_1.jpg)](http://aladin.kr/p/IRxVx) | 2025-05-28 to 2025-06-26 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1330) | [![Becoming a Better Programmer](https://image.aladin.co.kr/product/33837/63/cover500/k192930998_1.jpg)](http://aladin.kr/p/yqSGA) | 2025-04-10 to 2025-06-10 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1213) |
 | [![The Engineering Executives Primer](https://image.aladin.co.kr/product/36206/4/cover500/k122038301_1.jpg)](http://aladin.kr/p/GRILg) | 2025-04-18 to 2025-05-28 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1235) | [![Release it!](https://image.aladin.co.kr/product/100/65/cover500/8992939108_1.jpg)](http://aladin.kr/p/TF9KX) | 2025-02-06 to 2025-05-20 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1076) |
 | [![Quantum Computing for Dummies](https://image.aladin.co.kr/product/35567/94/cover500/k542036478_1.jpg)](http://aladin.kr/p/lR1bE) | 2025-03-14 to 2025-04-18 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1164) | [![자기 신뢰](https://image.aladin.co.kr/product/26820/59/cover500/k392730292_1.jpg)](http://aladin.kr/p/PyaGz) | 2025-03-26 to 2025-04-03 | [IssuesLink](https://github.com/jongfeel/BookReview/milestone/70?closed=1) |

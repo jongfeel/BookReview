@@ -30,7 +30,7 @@ Add a completed book entry to the README.md book list table and open a pull requ
 
 4. **Insert a new row** into the correct year table in `README.md`
    - Row format: `| [![{title}]({IMAGE_LINK})]({aladin_link}) | {start} to {end} | [IssuesLink](https://github.com/jongfeel/BookReview/issues/{ISSUE_NUMBER}) |  |  |  |`
-   - Insert at the position that maintains **start date descending order** (most recent start date at the top)
+   - Insert at the position that maintains **end date descending order** (most recent end date at the top)
    - Increment the book count in the table heading by 1
 
 5. **Commit**

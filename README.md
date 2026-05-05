@@ -8,10 +8,11 @@ Reviews the IT or any books slowly and steady.
 |-----|--------|-------|-----|--------|-------|
 | [![요즘 개발자를 위한 시스템 설계 수업](https://image.aladin.co.kr/product/37231/42/cover500/k292031803_1.jpg)](http://aladin.kr/p/ACHc8) | 2025-12-09 to 2026-01-30 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1560) | [![실리콘밸리에선 어떻게 일하나요](https://image.aladin.co.kr/product/30176/20/cover500/k842839793_1.jpg)](http://aladin.kr/p/4fwFc) | 2025-12-17 to 2026-01-15 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1566) |
 
-## Book list of 2025 (23 books)
+## Book list of 2025 (24 books)
 
 |Title|Duration|History|Title|Duration|History|
 |-----|--------|-------|-----|--------|-------|
+| [![현장에서 통하는 도메인 주도 설계 실전 가이드, 개발자 관점에서 설명한 실무에 강한 DDD 입문서!](https://image.aladin.co.kr/product/37029/12/cover500/k002030839_1.jpg)](http://aladin.kr/p/HCCj4) | 2025-09-09 to 2025-09-28 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1524) |  |  |  |
 | [![세상을 뒤바꿀 새로운 양자 혁명](https://image.aladin.co.kr/product/36501/91/cover500/k542039321_1.jpg)](http://aladin.kr/p/nRztN) | 2025-08-25 to 2025-09-08 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1495) |  |  |  |
 | [![아키텍트 첫걸음](https://image.aladin.co.kr/product/36862/57/cover500/k992030502_1.jpg)](http://aladin.kr/p/rR3a4) | 2025-08-08 to 2025-08-26 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1462) | [![코드 너머 회사보다 오래 남을 개발자](https://image.aladin.co.kr/product/36680/81/cover500/k552030486_1.jpg)](http://aladin.kr/p/8RPS6) | 2025-07-25 to 2025-08-08 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1440) |
 | [![Implementation Patterns](https://image.aladin.co.kr/product/170/61/cover500/8960770310_1.jpg)](http://aladin.kr/p/IFr2Y) | 2025-07-21 to 2025-09-09 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1290) | [![Simple Object Oriented Design](https://image.aladin.co.kr/product/36658/87/cover500/k192030085_1.jpg)](http://aladin.kr/p/qR4aZ) | 2025-07-15 to 2025-07-25 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1420) |

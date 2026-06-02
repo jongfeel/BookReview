@@ -26,7 +26,7 @@ Add a completed book entry to the README.md book list table and open a pull requ
    gh issue develop {ISSUE_NUMBER} --repo jongfeel/BookReview --checkout
    ```
 
-3. **Determine the target year table** from the start date year (e.g. start 2025-08-25 → "Book list of 2025")
+3. **Determine the target year table** from the **end date** year (e.g. end 2025-09-28 → "Book list of 2025"; end 2026-01-21 → "Book list of 2026")
 
 4. **Insert into the correct year table** in `README.md`
    - The table has **two books per row** (columns: Title | Duration | History | Title | Duration | History)

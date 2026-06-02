@@ -26,16 +26,19 @@ Add a completed book entry to the README.md book list table and open a pull requ
    gh issue develop {ISSUE_NUMBER} --repo jongfeel/BookReview --checkout
    ```
 
-3. **Determine the target year table** from the start date year (e.g. start 2025-08-25 → "Book list of 2025")
+3. **Determine the target year table** from the **end date** year (e.g. end 2025-09-28 → "Book list of 2025"; end 2026-01-21 → "Book list of 2026")
 
 4. **Insert into the correct year table** in `README.md`
    - The table has **two books per row** (columns: Title | Duration | History | Title | Duration | History)
-   - Books are ordered by end date **descending**, left-to-right then top-to-bottom
+   - Three layout rules:
+     1. **Add col1 first, then col0**: new book goes to column 1 (right) of a new top row; the next book (with a later end date) fills column 0 (left) of that same row
+     2. **Never blank bottom**: only the top row may have column 0 empty; every row below must have both columns filled
+     3. **Stack order by end date**: books are ordered end date descending, top-to-bottom then left-to-right within each row (col0 > col1)
    - **Step A — add new row at column position 1 (right):**
      ```
      |  |  |  | [![{title}]({IMAGE_LINK})]({aladin_link}) | {start} to {end} | [IssuesLink](https://github.com/jongfeel/BookReview/issues/{ISSUE_NUMBER}) |
      ```
-     Insert this new row at the top of the table.
+     Insert this new row at the top of the table. Reshuffle existing rows if needed so all rows except the top are fully filled.
    - **Step B — next task: fill column position 0 (left) of that same row** (no new row):
      Replace the leading `|  |  |  |` with `| [![{title}]({IMAGE_LINK})]({aladin_link}) | {start} to {end} | [IssuesLink](.../{ISSUE_NUMBER}) |`
    - Increment the book count in the table heading by 1

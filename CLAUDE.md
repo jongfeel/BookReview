@@ -38,6 +38,8 @@ Add a completed book entry to the README.md book list table and open a pull requ
      Insert this new row at the top of the table.
    - **Step B — next task: fill column position 0 (left) of that same row** (no new row):
      Replace the leading `|  |  |  |` with `| [![{title}]({IMAGE_LINK})]({aladin_link}) | {start} to {end} | [IssuesLink](.../{ISSUE_NUMBER}) |`
+   - **Displaced books** (existing books pushed to a new bottom row due to insertion) go at **column position 0 (left)**, with col1 empty:
+     `| [![{title}]({IMAGE_LINK})]({aladin_link}) | {start} to {end} | [IssuesLink](...) |  |  |  |`
    - Increment the book count in the table heading by 1
 
 5. **Commit**

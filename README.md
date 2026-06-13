@@ -2,11 +2,11 @@
 
 Reviews the IT or any books slowly and steady.
 
-## Book list of 2026 (5 book)
+## Book list of 2026 (6 book)
 
 |Title|Duration|History|Title|Duration|History|
 |-----|--------|-------|-----|--------|-------|
-|  |  |  | [![Software Architecture: The Hard Parts](https://image.aladin.co.kr/product/30231/14/cover500/k972839408_1.jpg)](http://aladin.kr/p/LQw7E) | 2026-01-02 to 2026-03-21 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1575) |
+| [![Beyond Vibe Coding - From Coder to AI-Era Developer](https://image.aladin.co.kr/product/37633/94/cover500/k812032147_1.jpg)](http://aladin.kr/p/mCRz5) | 2026-02-04 to 2026-03-25 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1614) | [![Software Architecture: The Hard Parts](https://image.aladin.co.kr/product/30231/14/cover500/k972839408_1.jpg)](http://aladin.kr/p/LQw7E) | 2026-01-02 to 2026-03-21 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1575) |
 | [![How to Make Things Faster: Lessons in Performance from Technology and Everyday Life](https://image.aladin.co.kr/product/37840/18/cover500/k512033705_1.jpg)](http://aladin.kr/p/LEbcN) | 2026-01-22 to 2026-03-04 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1600) | [![요즘 개발자를 위한 시스템 설계 수업](https://image.aladin.co.kr/product/37231/42/cover500/k292031803_1.jpg)](http://aladin.kr/p/ACHc8) | 2025-12-09 to 2026-01-30 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1560) |
 | [![Head First Software Architecture](https://image.aladin.co.kr/product/37179/38/cover500/k882031780_1.jpg)](http://aladin.kr/p/iCcy7) | 2025-09-29 to 2026-01-21 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1546) | [![실리콘밸리에선 어떻게 일하나요](https://image.aladin.co.kr/product/30176/20/cover500/k842839793_1.jpg)](http://aladin.kr/p/4fwFc) | 2025-12-17 to 2026-01-15 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1566) |
 

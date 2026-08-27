@@ -1,5 +1,51 @@
 # BookReview CLAUDE.md
 
+## Add Book TOC Task
+
+Add the book cover image and a table-of-contents checklist to a reading issue when starting a new book.
+
+**Required parameters:**
+- `ISSUE_NUMBER` — GitHub issue number (e.g. 1834)
+
+### Steps
+
+1. **Fetch issue body** and extract the Aladin book link (`aladin.kr/p/...` or `aladin.co.kr/shop/wproduct.aspx?ItemId=...`):
+   ```
+   gh issue view {ISSUE_NUMBER} --repo jongfeel/BookReview --json title,body
+   ```
+   If the body has no Aladin link, search Aladin by the issue title to find the product page.
+
+2. **Fetch the Aladin product page** with `curl` (use a browser User-Agent) and extract:
+   - **Cover image**: the `og:image` meta tag — a `https://image.aladin.co.kr/product/.../cover500/....jpg` URL
+     ```
+     grep -o 'og:image" content="[^"]*'
+     ```
+   - **ISBN-13**: `grep -io "isbn[^;]\{0,40\}"` → 13-digit number (e.g. 9791140719914)
+   - Note: Aladin's 목차/책소개 sections are loaded dynamically via script, so the TOC **cannot** be scraped from Aladin — that is why Yes24 is used below.
+
+3. **Find the Yes24 product page** by searching with the ISBN:
+   - Fetch `https://www.yes24.com/product/search?query={ISBN}` and extract the product URL (`/product/goods/{id}`)
+
+4. **Extract the TOC** from the Yes24 product page HTML (curl + grep; do not rely on a summarized fetch alone — cross-check against the raw HTML):
+   ```
+   grep -o "[0-9]\{1,2\}부[.: ][^<]\{0,40\}"   # part titles
+   grep -o "[0-9]\{1,2\}장[.: ][^<]\{0,80\}"   # chapter titles
+   ```
+
+5. **Append to the issue body** (keep the existing body intact):
+   - The Aladin cover image if the body doesn't already have a cover image:
+     ```
+     <img width="500" alt="{title}" src="{og:image URL}" />
+     ```
+   - A `---` separator, then a `### 목차` section:
+     - Part titles in bold: `**1부. {part title}**`
+     - Each chapter as a checkbox: `- [ ] 1장. {chapter title}` (used to check off chapters while reading)
+   - Update with:
+     ```
+     gh issue edit {ISSUE_NUMBER} --repo jongfeel/BookReview --body-file {file}
+     ```
+   - Example result: issue #1834
+
 ## Add Finish Book Task
 
 Add a completed book entry to the README.md book list table and open a pull request.

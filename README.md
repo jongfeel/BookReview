@@ -2,11 +2,11 @@
 
 Reviews the IT or any books slowly and steady.
 
-## Book list of 2026 (13 book)
+## Book list of 2026 (14 book)
 
 |Title|Duration|History|Title|Duration|History|
 |-----|--------|-------|-----|--------|-------|
-|  |  |  | [![Thanks for the feedback: The Science and Art of Receiving Feedback Well](https://image.aladin.co.kr/product/27279/29/cover500/8950986566_1.jpg)](http://aladin.kr/p/2PSJa) | 2025-07-02 to 2026-06-23 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1395) |
+| [![Building Applications with AI Agents: Designing and Implementing Multiagent Systems](https://image.aladin.co.kr/product/39291/58/cover500/k302138601_1.jpg)](https://aladin.kr/p/vCwfX) | 2026-05-21 to 2026-07-22 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1741) | [![Thanks for the feedback: The Science and Art of Receiving Feedback Well](https://image.aladin.co.kr/product/27279/29/cover500/8950986566_1.jpg)](http://aladin.kr/p/2PSJa) | 2025-07-02 to 2026-06-23 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1395) |
 | [![개발자 원칙 - 확장판, 테크 리더 9인이 말하는 더 나은 개발자로 살아가는 원칙과 철학](https://image.aladin.co.kr/product/34527/3/cover500/k112932855_1.jpg)](http://aladin.kr/p/kqgEC) | 2026-05-09 to 2026-06-13 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1720) | [![Co-Intelligence: Living and Working with AI](https://image.aladin.co.kr/product/35873/90/cover500/k762037781_1.jpg)](http://aladin.kr/p/Az0Sy) | 2026-05-12 to 2026-05-19 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1725) |
 | [![If Anyone Builds It, Everyone Dies](https://image.aladin.co.kr/product/38931/87/cover500/k032137816_1.jpg)](http://aladin.kr/p/lSSZw) | 2026-04-28 to 2026-05-11 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1699) | [![Street Coder: The Rules to Break and How to Break Them](https://image.aladin.co.kr/product/32360/9/cover500/k292935560_1.jpg)](http://aladin.kr/p/r4HDp) | 2026-03-29 to 2026-05-04 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1657) |
 | [![We, Programmers: A Chronicle of Coders from ADA to AI](https://image.aladin.co.kr/product/38466/66/cover500/k392135919_1.jpg)](http://aladin.kr/p/KCwwp) | 2026-04-06 to 2026-05-04 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1669) | [![Simplicity: Sustainable, Humane, and Effective Software Development](https://image.aladin.co.kr/product/38535/91/cover500/k092135330_2.jpg)](http://aladin.kr/p/GCuAM) | 2026-03-25 to 2026-04-06 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1652) |

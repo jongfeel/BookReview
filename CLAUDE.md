@@ -1,5 +1,7 @@
 # BookReview CLAUDE.md
 
+Shortcut commands (e.g. "Issue #N 책 README에 추가시켜줘" with automatic Aladin cover lookup): @AGENTS.md
+
 ## Add Book TOC Task
 
 Add the book cover image and a table-of-contents checklist to a reading issue when starting a new book.

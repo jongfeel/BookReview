@@ -2,11 +2,11 @@
 
 Reviews the IT or any books slowly and steady.
 
-## Book list of 2026 (15 book)
+## Book list of 2026 (16 book)
 
 |Title|Duration|History|Title|Duration|History|
 |-----|--------|-------|-----|--------|-------|
-|  |  |  | [![Rapid Development: Taming Wild Software Schedules](https://image.aladin.co.kr/product/42/62/cover500/8979142412_1.gif)](http://aladin.kr/p/8F8EV) | 2025-02-15 to 2026-11-07 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1095) |
+| [![Rapid Development: Taming Wild Software Schedules](https://image.aladin.co.kr/product/42/62/cover500/8979142412_1.gif)](http://aladin.kr/p/8F8EV) | 2025-02-15 to 2026-11-07 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1095) | [![The Wealth Ladder](https://image.aladin.co.kr/product/38934/1/cover500/8925569574_1.jpg)](https://aladin.kr/p/QSSTQ) | 2026-05-22 to 2026-07-24 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1742) |
 | [![Building Applications with AI Agents: Designing and Implementing Multiagent Systems](https://image.aladin.co.kr/product/39291/58/cover500/k302138601_1.jpg)](https://aladin.kr/p/vCwfX) | 2026-05-21 to 2026-07-22 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1741) | [![Thanks for the feedback: The Science and Art of Receiving Feedback Well](https://image.aladin.co.kr/product/27279/29/cover500/8950986566_1.jpg)](http://aladin.kr/p/2PSJa) | 2025-07-02 to 2026-06-23 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1395) |
 | [![개발자 원칙 - 확장판, 테크 리더 9인이 말하는 더 나은 개발자로 살아가는 원칙과 철학](https://image.aladin.co.kr/product/34527/3/cover500/k112932855_1.jpg)](http://aladin.kr/p/kqgEC) | 2026-05-09 to 2026-06-13 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1720) | [![Co-Intelligence: Living and Working with AI](https://image.aladin.co.kr/product/35873/90/cover500/k762037781_1.jpg)](http://aladin.kr/p/Az0Sy) | 2026-05-12 to 2026-05-19 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1725) |
 | [![If Anyone Builds It, Everyone Dies](https://image.aladin.co.kr/product/38931/87/cover500/k032137816_1.jpg)](http://aladin.kr/p/lSSZw) | 2026-04-28 to 2026-05-11 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1699) | [![Street Coder: The Rules to Break and How to Break Them](https://image.aladin.co.kr/product/32360/9/cover500/k292935560_1.jpg)](http://aladin.kr/p/r4HDp) | 2026-03-29 to 2026-05-04 | [IssuesLink](https://github.com/jongfeel/BookReview/issues/1657) |
